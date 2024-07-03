@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.vs
+**/.vs
+**/.vscode
+**/debug
+/BC-NodeCert/bin
+/BC-NodeCert/obj/Release
