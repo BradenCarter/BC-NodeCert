@@ -132,3 +132,5 @@ dist
 **/.vs
 **/.vscode
 **/debug
+/BC-NodeCert/bin
+/BC-NodeCert/obj/Release
